@@ -1,0 +1,23 @@
+body {
+    background-color: rgb(162,227,184);
+}
+#head {
+    font-family: fantasy;
+    font-size: 50px;
+}
+.objects {
+    font-family: monospace;
+    font-size: 25px;
+    color: midnightblue;
+    font-weight: bolder;
+}
+.web_head {
+    font-size: 30px;
+    color: rgb(82,140,140);
+}
+#tra_p {
+    font-size: 36px;
+    font-weight: 550;
+    color: green;
+    font-family: cursive;
+}
